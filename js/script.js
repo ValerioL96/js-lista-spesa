@@ -4,7 +4,7 @@
 
 //1) creo una lista spesa con un array 
 
-   const shopList = [
+   const shoppingList = [
      'Pane',
      'Banana',
      'Latte',
@@ -12,3 +12,8 @@
      'Pollo',
      'Acqua'
     ];
+
+
+//2) creo un contenitore ul 
+
+    const ulElement = document.querySelector('ul');
